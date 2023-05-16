@@ -1,0 +1,33 @@
+
+.maincontianer {
+
+       display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+.show{
+    display: block;
+
+}
+.hide{
+    display: none;
+
+}
+
+
+.oom{
+    display:flex;
+     margin-bottom: 30px;
+}
+/* .button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+    margin: 0 7px;
+  
+} */

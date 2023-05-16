@@ -1,0 +1,15 @@
+.mp {
+    margin-bottom: 40px;
+}
+
+.innput{
+    padding: 9px;
+    margin: 0 225px;
+    font-weight: bold;
+    font-size: 14px;
+    border: #EAC7C7 double 2px;
+    text-align: center;
+    direction: ltr;
+    outline:none;
+   
+}

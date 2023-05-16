@@ -1,0 +1,33 @@
+
+.Controller{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 17px 0 ;
+}
+.Controller label {
+    font-weight: bold;
+    color: #212529;
+    margin:8px 30px;
+}
+.Controller input {
+    width: 60%;
+    border-radius: 10px;
+    border: #EAC7C7 double 2px;
+    color: #579BB1;
+    font-size: 15px;
+    padding: 8px;
+ 
+}
+.buttoon {
+
+    background-color: #B08BBB;
+    border: none;
+    color: white;
+    padding: 11px;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    margin: 0 20px;
+}
